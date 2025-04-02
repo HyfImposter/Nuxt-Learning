@@ -10,7 +10,7 @@
       </h1>
       <p class="text-xl mt-4 mb-6 italic font-serif">I am developing a series of fun tools, stay tuned~</p>
       <NuxtLink to="/waitlist">
-        <UButton class="px-6 py-3 text-lg rounded-full bg-opacity-90 hover:bg-opacity-80 transition-all mt-12", variant="outline">Subscribe Now!</UButton>
+        <UButton class="px-6 py-3 text-lg rounded-full bg-opacity-50 hover:bg-opacity-80 transition-all mt-12" variant="outline">Subscribe Now!</UButton>
       </NuxtLink>
     </div>
   </div>
